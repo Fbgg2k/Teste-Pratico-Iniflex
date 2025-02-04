@@ -65,16 +65,4 @@ Este projeto é licenciado sob a MIT License - veja o arquivo [LICENSE](LICENSE)
 
 ```
 
-### Onde Inserir o README
-
-- **No GitHub**: Você deve criar um arquivo chamado `README.md` na raiz do seu repositório local. Em seguida, faça commit e push desse arquivo para o seu repositório remoto no GitHub.
-
-Para fazer isso, use os seguintes comandos:
-
-```bash
-git add README.md
-git commit -m "Adiciona README ao projeto"
-git push origin main  # ou o nome do seu branch
-```
-
 Esse README fornece uma visão clara do projeto. Sinta-se à vontade para personalizá-lo conforme a sua necessidade!
